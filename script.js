@@ -1,6 +1,9 @@
-// AIAA Adaptive Structures Technical Committee - Enhanced Script
 // ================================================================
-// 
+// DESCRIPTION: AIAA Adaptive Structures Technical Committee website - Enhanced Script
+//
+// AUTHOR: Tigran Mkhoyan, tigran.mkhoyan@gmail.com
+// DATE: 01/01/2026
+
 // FONTS USED:
 // - Space Grotesk (headings) - https://fonts.google.com/specimen/Space+Grotesk
 // - DM Sans (body text) - https://fonts.google.com/specimen/DM+Sans
